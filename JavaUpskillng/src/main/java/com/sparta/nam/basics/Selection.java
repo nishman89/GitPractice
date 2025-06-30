@@ -1,23 +1,7 @@
 package com.sparta.nam.basics;
 
 public class Selection {
-    public static void main(String[] args) {
-//        System.out.println(getGradeIfElse(40));
-//        System.out.println(getGradeConditionalOperator(60));
 
-        var message = priority(2);
-        System.out.println(message);
-    }
-
-    public static String priority(int level){
-
-        String priority = "Code ";
-        switch (level){
-            case 3:
-                priority = priority + "Red";
-                break;
-            case 2:
-            case 1:
                 priority = priority + "Amber";
                 break;
             default:
