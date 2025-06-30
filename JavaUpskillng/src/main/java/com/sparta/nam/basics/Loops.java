@@ -18,9 +18,8 @@ public class Loops {
         // NOT initlaised with values
         double[] weights = new double[4];
         weights[0] = 3.5;
-        weights[1] = 4.2;
-        weights[2] = 7.1;
-        weights[3] = 1.3;
+        weisajqkjALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+
         weights[3] =  weights[3] + 1;
 //        System.out.println(weights[0]);
 //        System.out.println(weights[1]);
