@@ -26,6 +26,12 @@ public class CollectionsReview {
         mySet.add("Nish");
         mySet.add("Nish");
         System.out.println(mySet);
+        HashMap<Integer, String> myMap = new HashMap<>();
+
+        //gitpractice update
+        myMap.put(55, "Supriya git update one ");
+        myMap.put(56, "Supriya git update two");
+        myMap.put(57, "Supriya git update three");
 
 
         HashMap<Integer, String> myMap = new HashMap<>();
